@@ -113,28 +113,29 @@ should make sure to include all of the frameworks from X when including the SDK.
 
 ### Current Version of Firebase libraries
 
-|           Carthage           | Version |
-| ----------------------------- | ------- |
-| Firebase                      | 3.14.0 |
-| FirebaseAnalytics             | 3.7.0 |
-| FirebaseAppIndexing           | 1.2.0 |
-| FirebaseAuth                  | 3.1.1 |
-| FirebaseCore                  | 3.5.1 |
-| FirebaseCrash                 | 1.1.6 |
-| FirebaseDatabase              | 3.1.2 |
-| FirebaseDynamicLinks          | 1.3.3 |
-| FirebaseInstanceID            | 1.0.9 |
-| FirebaseInvites               | 1.2.4 |
-| FirebaseMessaging             | 1.2.2 |
-| FirebaseRemoteConfig          | 1.3.4 |
-| FirebaseStorage               | 1.1.0 |
-| GTMOAuth2                     | 1.1.4 |
-| GTMSessionFetcher             | 1.1.8 |
-| Google-Mobile-Ads-SDK         | 7.18.0|
-| GoogleAPIClientForREST        | 1.2.0 |
-| GoogleSignIn                  | 4.0.2 |
-| GoogleToolboxForMac           | 2.1.1 |
-| Protobuf                      | 3.2.0 |
+           Carthage           | Version
+----------------------------- | -------
+Firebase                      | 4.0.4
+FirebaseAnalytics             | 4.0.2
+FirebaseAuth                  | 4.0.0
+FirebaseCore                  | 4.0.4
+FirebaseCrash                 | 2.0.0
+FirebaseDatabase              | 4.0.0
+FirebaseDynamicLinks          | 2.0.0
+FirebaseInstanceID            | 2.0.0
+FirebaseInvites               | 2.0.0
+FirebaseMessaging             | 2.0.0
+FirebasePerformance           | 1.0.3
+FirebaseRemoteConfig          | 2.0.1
+FirebaseStorage               | 2.0.0
+GTMOAuth2                     | 1.1.4
+GTMSessionFetcher             | 1.1.11
+Google-Mobile-Ads-SDK         | 7.21.0
+GoogleAPIClientForREST        | 1.3.0
+GoogleSignIn                  | 4.0.2
+GoogleToolboxForMac           | 2.1.1
+Protobuf                      | 3.3.0
+nanopb                        | 0.3.8
 
 
 

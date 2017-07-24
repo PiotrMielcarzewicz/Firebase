@@ -8,3 +8,6 @@ All notable changes to this project will be documented in this file.
 # 3.14.0
 - Merge pull request #6 from soheilbm/firebaseUpdate
 - Update Firebase to 3.14.0
+
+# 4.0.4
+- Update Firebase to 4.0.4
